@@ -1,29 +1,31 @@
-# pinia-task
+## 🎯 About
 
-This template should help get you started developing with Vue 3 in Vite.
+Task Manager With Pinia.
 
-## Recommended IDE Setup
+Link: https://pinia-task-iota.vercel.app/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![CHAMAA](https://github.com/Gabriel-GRS/pinia-task/assets/85954641/c22638d1-309a-4e5e-8c95-2c0de5f3b423)
 
-## Customize configuration
+## 🚀 Technologies
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Vue3
+- Tailwindcss
+- Pinia
 
-## Project Setup
+## ✅ Requirements
 
-```sh
-npm install
+Before start you will need [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) instaled.
+
+## 🔌 Starting the project
+```bash
+$ git clone https://github.com/Gabriel-GRS/pinia-task.git
 ```
 
-### Compile and Hot-Reload for Development
+### 
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+```bash
+$ cd pinia-task
+$ npm install
+$ npm run dev
+# The server will initialize in the <http://localhost:3000>
 ```
